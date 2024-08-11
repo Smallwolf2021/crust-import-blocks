@@ -2,6 +2,11 @@
 
 ### 大文件克隆需要安装[git lfs](https://git-lfs.com/)
 
+### 如何复制crust程序
+```BASH
+docker cp crust:/opt/crust/crust ~/crust
+```
+
 ### 如何手动从好的节点到处区块（--from 参数后面的数字15974855是你卡块的高度，最好减一）
 ``` BASH
 git clone https://github.com/Smallwolf2021/crust-import-blocks.git

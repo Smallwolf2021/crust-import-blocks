@@ -2,7 +2,7 @@
 
 ### 大文件克隆需要安装[git lfs](https://git-lfs.com/)
 
-### 如何手动从好的节点导出区块（--from 参数后面的数字15974855是你卡块的高度，最好减一）
+### 如何手动从好的节点导出区块（--from 参数后面的数字15974855是你卡块的高度，最好减一; 还有个--to可选参数：用来决定导出区块的结束高度）
 ``` BASH
 git clone https://github.com/Smallwolf2021/crust-import-blocks.git
 cd crust-import-blocks

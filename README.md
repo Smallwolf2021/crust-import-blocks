@@ -16,7 +16,7 @@ chmod +x ./crust
 
 ### 解压区块
 ``` BASH
-tar -xvzf newblocks.tar.gz
+tar -xvzf blocks/newblocks.tar.gz
 ```
 
 

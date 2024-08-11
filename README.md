@@ -1,4 +1,4 @@
-# 卡块处理
+# 卡块处理 下面操作仅针对OWNER节点，如果是member或外链机器卡块请修改--base-path 参数的路径
 
 ### 大文件克隆需要安装[git lfs](https://git-lfs.com/)
 
